@@ -5,6 +5,8 @@ Hopeful Horizon is a framework that uses NLP and machine learning algorithms to 
 
 ## System Architecture
 
+![Screenshot 2023-06-17 000845](https://github.com/nidhiy7/Netflix_Data_Analysis_using_Power_Bi_Tableau_Dashboard/assets/80893000/8ef0222d-59b8-4b3b-867a-77de1f68c08a)
+
 ## Result
 
 ## Power BI Dashboard
