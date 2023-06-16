@@ -4,7 +4,11 @@
 Hopeful Horizon is a framework that uses NLP and machine learning algorithms to detect depression and anxiety in students' written text, such as social media comments. It provides preventive measures like recommending professional help or self-care procedures. By offering early intervention and support, it aims to improve mental health outcomes for individuals suffering from depression.
 
 ## Link
-
+### Kaggle link
+<ul style="list-style-type:circle;">
+  <li>Dataset: https://www.kaggle.com/datasets/nidhiy07/student-depression-text</li>
+  <li> My Notebook : https://www.kaggle.com/code/nidhiy07/forecast-depression-anxiety-text </li>
+</ul>
 
 ## Result
 ![Screenshot 2023-06-17 001833](https://github.com/nidhiy7/Netflix_Data_Analysis_using_Power_Bi_Tableau_Dashboard/assets/80893000/6f38c14a-f531-45cc-9145-e48d5bc800d0)
@@ -12,7 +16,7 @@ Hopeful Horizon is a framework that uses NLP and machine learning algorithms to 
 ## Model Evaluation
 
 ![Screenshot 2023-06-17 002022](https://github.com/nidhiy7/Netflix_Data_Analysis_using_Power_Bi_Tableau_Dashboard/assets/80893000/7de2dd04-7d53-4324-839c-721da7b360aa)
-![__results___94_0](https://github.com/nidhiy7/Netflix_Data_Analysis_using_Power_Bi_Tableau_Dashboard/assets/80893000/c1f19eeb-aecf-429d-8aad-ec98d5ca873a)
+
 
 
 ## Power BI Dashboard
