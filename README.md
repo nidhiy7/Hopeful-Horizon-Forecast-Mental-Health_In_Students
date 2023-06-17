@@ -9,7 +9,6 @@ Hopeful Horizon is a framework that uses NLP and machine learning algorithms to 
   <li>Dataset: https://www.kaggle.com/datasets/nidhiy07/student-depression-text</li>
   <li> My Notebook : https://www.kaggle.com/code/nidhiy07/forecast-depression-anxiety-text </li>
   <li> Research Paper : https://www.jetir.org/papers/JETIR2304515.pdf </li>
-  <li> Research Paper : https://www.jetir.org/papers/JETIR2304515.pdf </li>
   <li> Power BI Dashboard : https://mavenanalytics.io/project/6691 </li>
 </ul>
 
